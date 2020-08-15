@@ -4,7 +4,7 @@ Fix for the Forza Horizon 4 Crashes.
 Hello! Forza Horizon 4 is kmown for it's crashes, and often it happens because of explorer. It happened to me too so I decided to look for a fix. 
 Found some that stops and launchs explorer with num button and found it uncomfortable. I made a simple batch file that helped me a lot and I'm still using it. 
 
-[h]So how does it work?[/h]
+So how does it work?
 
 (If you run FH4Fix.bat) First, it starts Forza with high priority. (it was hard to found how to start it because it has no .exe that will start it)
 Then you'll have to wait 50 second for the game to finally start. On my PC it starts after around 50 sec so thats it.
