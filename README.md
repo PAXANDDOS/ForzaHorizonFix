@@ -6,7 +6,7 @@
 </p>
 <h2 align="center">Fix for the Forza Horizon 4 Crashes</h2>
 
-<p>Hey! Forza Horizon 4 is not a perfect game and you may experience some unexpected game crashes. In most cases, this happens due to a running explorer.exe process. (Game from Microsoft crashing because of software from Microsoft, funny, right?)<br>This fix should help you to overcome this issue! <a href="#how-does-it-work">See details.</a>
+<p>Hey! Forza Horizon 4 is not a perfect game and you may experience some unexpected game crashes. In most cases, this happens due to a running explorer.exe process. (Game from Microsoft crashing because of software from Microsoft, funny, right?)<br>This fix should help you to overcome this issue! <a href="#grey_question-how-does-it-work">See details.</a>
 </p>
 
 <h2>:inbox_tray: Downloads</h2>
