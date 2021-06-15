@@ -10,8 +10,8 @@
 </p>
 
 <h2>:inbox_tray: Downloads</h2>
-<b>Preferred version — <a href="https://github.com/PAXANDDOS/ForzaHorizon4Fix/releases/download/2.0/ForzaHorizon4.bat">Download</b></a><br>
-Light version — <a href="https://github.com/PAXANDDOS/ForzaHorizon4Fix/releases/download/2.0/ForzaHorizon4_light.bat"><b>Download</b></a>
+<b>Preferred version — <a href="https://github.com/PAXANDDOS/ForzaHorizon4Fix/releases/download/v2.0/ForzaHorizon4.bat">Download</b></a><br>
+Light version — <a href="https://github.com/PAXANDDOS/ForzaHorizon4Fix/releases/download/v2.0/ForzaHorizon4_light.bat"><b>Download</b></a>
 
 <h2>:grey_question: How does it work?</h2>
 <p>
