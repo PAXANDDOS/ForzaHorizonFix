@@ -2,6 +2,7 @@
 <p align="center">
   <img alt="windows" src="https://img.shields.io/badge/Windows-blue.svg?style=flat-square&logo=windows&logoColor=white" />
   <img alt="release" src="https://img.shields.io/github/v/release/PAXANDDOS/ForzaHorizon4Fix?style=flat-square" />
+  <img alt="downloads" src="https://img.shields.io/github/downloads/PAXANDDOS/ForzaHorizon4Fix/v2.0/total?style=flat-square" />
   <img alt="downloads" src="https://img.shields.io/github/downloads/PAXANDDOS/ForzaHorizon4Fix/total?style=flat-square" />
 </p>
 <h2 align="center">Fix for the Forza Horizon 4 Crashes</h2>
@@ -16,7 +17,7 @@ Light version — <a href="https://github.com/PAXANDDOS/ForzaHorizon4Fix/release
 <h2>:grey_question: How does it work?</h2>
 <p>
 Download the <b>preferred</b> version above and run the batch file. This version is compatible with Windows 10 Home and Pro editions and should run correctly. If you experienced some difficulties, you may download the light version, it will run the game without requesting admin rights and without services check.<br>
-After the batch file starts, it will request admin rights for further operations. It will check for required Xbox services and start them if they're disabled. Then your game will start and after some time explorer.exe process will be killed, it starts as soon as you exit the game.
+After the batch file starts, it will request admin rights for further operations. It will check for required Xbox services and start them if they're disabled. Then your game will start and after some time explorer.exe process will be killed, it starts again as soon as you exit the game.
 </p>
 <p>
 <b>Warning!</b><br>
