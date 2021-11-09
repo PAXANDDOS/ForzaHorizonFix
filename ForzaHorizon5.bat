@@ -19,9 +19,9 @@ if '%errorlevel%' NEQ '0' (
     pushd "%CD%"
     CD /D "%~dp0"
 
-    echo Executing ForzaHorizonFix (v2.0) by @paxanddos.
+    echo Executing ForzaHorizonFix (v2.5) by @paxanddos.
     echo If you have any issues please address them to https://github.com/PAXANDDOS/ForzaHorizonFix/issues
-    echo Waiting for Forza Horizon 4 to finally launch and then killing explorer.exe.
+    echo Waiting for Forza Horizon 5 to finally launch and then killing explorer.exe.
 
     net start XboxNetApiSvc
     net start XboxGipSvc
@@ -29,10 +29,10 @@ if '%errorlevel%' NEQ '0' (
     net start XblGameSave
     timeout /T 1 /NOBREAK
 
-    start /high explorer.exe shell:appsFolder\Microsoft.SunriseBaseGame_8wekyb3d8bbwe!SunriseReleaseFinal
+    start /high explorer.exe shell:appsFolder\Microsoft.624F8B84B80_8wekyb3d8bbwe!Forzahorizon5
     SetLocal EnableExtensions
     SetLocal ENABLEDELAYEDEXPANSION
-    Set game=ForzaHorizon4.exe
+    Set game=ForzaHorizon5.exe
     timeout /T 60 /NOBREAK
     taskkill /f /im explorer.exe
 
